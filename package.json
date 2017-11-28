@@ -1,0 +1,26 @@
+{
+  "name": "DemoApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "~2.0.0-rc.6",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "~1.15.1",
+    "cluster": "^0.7.7",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.0",
+    "enum": "^2.5.0",
+    "express": "~4.13.4",
+    "express-validator": "~2.12.2",
+    "fs": "0.0.2",
+    "jade": "~1.11.0",
+    "path": "^0.12.7",
+    "serve-favicon": "~2.3.0",
+    "sticky-session": "^1.1.2",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {}
+}
